@@ -1,0 +1,35 @@
+{
+  "name": "azerrisk-file-minify",
+  "version": "1.0.2",
+  "description": "A tool that minifies all .js files in a folder and its nested folders",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Julien-ADDREA/azerrisk-file-minify.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "azerrisk-file-minify": "index.js"
+  },
+  "keywords": [
+    "minify",
+    "javascript",
+    "terser",
+    "cli",
+    "command",
+    "js"
+  ],
+  "author": "Julien Bourgeois <jbourgeois@addrea.fr> (https://www.addrea.fr)",
+  "bugs": {
+    "url": "https://github.com/Julien-ADDREA/azerrisk-file-minify/issues"
+  },
+  "homepage": "https://github.com/Julien-ADDREA/azerrisk-file-minify#readme",
+  "license": "ISC",
+  "devDependencies": {},
+  "dependencies": {
+    "colors": "^1.4.0",
+    "terser": "^5.3.8"
+  }
+}
