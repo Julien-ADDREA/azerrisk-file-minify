@@ -8,7 +8,7 @@ A function that minifies your javascript file. **Azerrisk-File-Minify** can be u
 
 ### Run CLI
 
-    > azerrisk-file-minify [folder]
+    > azerrisk-file-minify [filepath]
 
 ### Run in your code
 `azerriskFileMinify` function has 1 part: filepath, such that
