@@ -1,7 +1,7 @@
 {
   "name": "azerrisk-file-minify",
-  "version": "1.0.2",
-  "description": "A tool that minifies all .js files in a folder and its nested folders",
+  "version": "1.0.3",
+  "description": "A tool that minifies .js file",
   "main": "index.js",
   "repository": {
     "type": "git",
